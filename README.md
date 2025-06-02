@@ -1,32 +1,37 @@
 # DiscordGPT (ChatGOT)
 
-Welcome to **DiscordGPT** — a clean, lightweight Discord bot that lets you instantly launch the [ChatGPT](https://chatgpt.com) activity via a slash command in your Discord server.  
-This project was developed by **stetupdev**.
+DiscordGPT, also known as ChatGOT, is a Discord bot that launches the official ChatGPT activity within your Discord servers. Interact with ChatGPT directly through Discord voice channels using this seamless integration.
 
 ---
 
-## 📜 Features
+## Features
 
-- ⚡ `/discordgpt` — Posts a launch link for the ChatGPT website.
-- 🌐 Quick-install link for **any user to add the bot to their server**.
-- 💾 Easy setup with Node.js and Discord.js.
-- 🎉 Clean, open-source, ready-to-deploy bot code.
-
----
-
-## 📦 Installation & Setup
-
-### Option 1: Hosted Installation (Recommended)  
-No need to self-host! Simply add the bot to your server using this link:  
-👉 [CLICK ME!!](https://link.tetdev.work.gd/9013db)
+- `/discordgpt` command to launch ChatGPT Activity in voice channels  
+- Easy to install and deploy  
+- Supports both self-hosting and hosted options  
+- Dark mode default interface for a sleek experience  
+- Designed to be lightweight and reliable  
 
 ---
 
-### Option 2: Self-Host Your Own Instance  
+## Installation
 
-If you want full control and to run DiscordGPT yourself, follow these steps:
+### Hosted (Recommended)
 
-#### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/stetupdev/discordgpt.git
-cd discordgpt
+Get started quickly by using our hosted bot instance. No server setup required!
+
+1. Click this link to install the bot to your Discord server:  
+   [https://link.tetdev.work.gd/w03](https://link.tetdev.work.gd/w03)  
+2. Authorize the bot with the required permissions.  
+3. Use `/discordgpt` command to launch ChatGPT activity.
+
+---
+
+### Self-Hosting
+
+If you prefer full control and customization, you can self-host DiscordGPT.
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/stetupdev/discordgpt.git
+   cd discordgpt
