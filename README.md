@@ -21,7 +21,7 @@ DiscordGPT, also known as ChatGOT, is a Discord bot that launches the official C
 Get started quickly by using our hosted bot instance. No server setup required!
 
 1. Click this link to install the bot to your Discord server:  
-   [https://link.tetdev.work.gd/w3o](https://link.tetdev.work.gd/w03)  
+   [https://link.tetdev.work.gd/w3o](https://link.tetdev.work.gd/w3o)  
 3. Authorize the bot with the required permissions.  
 4. Use `/discordgpt` command to launch ChatGPT activity.
 
